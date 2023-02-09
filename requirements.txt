@@ -1,7 +1,6 @@
 numpy
 matplotlib
 scikit-learn >=0.22
-sklearn.datasets
 ripser
 persim
 tadasets
